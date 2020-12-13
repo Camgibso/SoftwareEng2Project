@@ -8,7 +8,7 @@ Has functions validate pin, gets/sets balance, get/set account number, get/set p
 
 
 
-
+--------------------------------------------------------
 Premade checking accounts (Found in BankSystem.java): 
 
 Account number, Pin, SSN, Balance
@@ -23,7 +23,7 @@ Account number, Pin, SSN, Balance
 
 
 
-
+----------------------------------------------------------------------------------------------------------------
 Premade saving accounts: 
 
 Account number, Pin, SSN, Balance
@@ -38,7 +38,7 @@ Account number, Pin, SSN, Balance
 
 
 
-
+--------------------------------------------------------
 Customer options: 
 
 1) Have Enter pin for validation
@@ -59,7 +59,7 @@ Customer options:
 
 
 
-
+--------------------------------------------------------
 Bank Staff options:
 
 1) Open Account
